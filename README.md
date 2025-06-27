@@ -13,4 +13,4 @@ Full Stack Development student focused on Web application design and functionali
 Currently building a memory game to deepen my skills in HTML, CSS, and JavaScript, without the use of frameworks. Learn more about the project:
 
 ### Contact:
-![LinkedIn](https://www.linkedin.com/in/leorenno/)
+[LinkedIn](https://www.linkedin.com/in/leorenno/)
