@@ -10,7 +10,7 @@ PhD and Full Stack Development student focused on Web application design and fun
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)
 
 ### Current project
-Currently building a memory game to deepen my skills in HTML, CSS, and JavaScript, without the use of frameworks. Learn more about the project:
+Currently building a fun and responsive memory game to deepen my skills in HTML, CSS, and JavaScript, without the use of frameworks. Learn more about the project:
 (https://leo-renno.github.io/memory/)
 
 ### Contact:
