@@ -1,6 +1,6 @@
 # Leonardo Rennó | Aspiring Full Stack Developer 
 ## 🏳️‍🌈 About me
-PhD and Full Stack Development student focused on Web application design and functionality - Front-end (React) e Back-end (Node.js).
+PhD (USP, Brazil) and Full Stack Development student focused on Web application design and functionality - Front-end (React) e Back-end (Node.js).
 ### Technologies
 
 ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5)
