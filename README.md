@@ -11,7 +11,7 @@ PhD (USP, Brazil) and Full Stack Development student (Dev Start postgraduate pro
 
 ### Current project
 Currently developing a responsive flashcard pack as part of the Dev Start postgraduate assessment (Rocketseat) to demonstrate acquired skills in HTML, CSS and JavaScript, without the use of frameworks. Learn more about the project:
-[https://leo-renno.github.io/flashflow/]
+(https://leo-renno.github.io/flashflow/)
 
 ### Contact:
 [LinkedIn](https://www.linkedin.com/in/leorenno/)
