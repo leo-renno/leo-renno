@@ -10,7 +10,7 @@ PhD (USP, Brazil) and Full Stack Development student (Dev Start postgraduate pro
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)
 
 ### Current project
-Currently developing a responsive flashcard pack as part of the Dev Start postgraduate assessment (Rocketseat) to demonstrate acquired skills in HTML, CSS and JavaScript,, without the use of frameworks. Learn more about the project:
+Currently developing a responsive flashcard pack as part of the Dev Start postgraduate assessment (Rocketseat) to demonstrate acquired skills in HTML, CSS and JavaScript, without the use of frameworks. Learn more about the project:
 (https://leo-renno.github.io/memory/)
 
 ### Contact:
